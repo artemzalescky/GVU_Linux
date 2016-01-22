@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow.png</file>
+        <file>icons/cset.ico</file>
+        <file>icons/directory</file>
+        <file>icons/exchange.png</file>
+        <file>icons/file.ico</file>
+        <file>icons/file.png</file>
+        <file>icons/filephoto.ico</file>
+        <file>icons/filevideo.ico</file>
+        <file>icons/folderclose.ico</file>
+        <file>icons/folderopen.ico</file>
+        <file>icons/free.ico</file>
+        <file>icons/next.ico</file>
+        <file>icons/off.ico</file>
+        <file>icons/on.ico</file>
+        <file>icons/open.ico</file>
+        <file>icons/pause.ico</file>
+        <file>icons/photo.ico</file>
+        <file>icons/plane.png</file>
+        <file>icons/play.ico</file>
+        <file>icons/prev.ico</file>
+        <file>icons/rec.ico</file>
+        <file>icons/rect.ico</file>
+        <file>icons/redo.ico</file>
+        <file>icons/round.ico</file>
+        <file>icons/snap.ico</file>
+        <file>icons/stop.ico</file>
+        <file>icons/stoprec.ico</file>
+        <file>icons/undo.ico</file>
+        <file>icons/unzoom.ico</file>
+        <file>icons/video.ico</file>
+        <file>icons/zoom.ico</file>
+    </qresource>
+</RCC>

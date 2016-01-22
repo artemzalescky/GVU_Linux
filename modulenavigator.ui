@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ModuleNavigator</class>
+ <widget class="QWidget" name="ModuleNavigator">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>420</height>
+   </rect>
+  </property>
+  <property name="mouseTracking">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QFrame" name="modulesFrame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>400</width>
+     <height>420</height>
+    </rect>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="settingsBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>352</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Настройки</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/configuration 1.png</normaloff>../../Загрузки/configuration 1.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>35</width>
+      <height>35</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="fkBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>285</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>ФК</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/загруженное.jpg</normaloff>../../Загрузки/загруженное.jpg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>35</width>
+      <height>35</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="mapBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>218</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Карта и ПЗ</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/map-icon.jpg</normaloff>../../Загрузки/map-icon.jpg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>40</width>
+      <height>40</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="reportBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>151</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Донесения</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/report_writing_0515-0909-2722-3528_SMU.jpg</normaloff>../../Загрузки/report_writing_0515-0909-2722-3528_SMU.jpg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>35</width>
+      <height>35</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="videoBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>84</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Видеопроигрыватель</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/video-player-icon.jpg</normaloff>../../Загрузки/video-player-icon.jpg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>40</width>
+      <height>40</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="camBtn">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>17</y>
+      <width>200</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Видео и управление ЦН</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../Загрузки/camera.png</normaloff>../../Загрузки/camera.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>40</width>
+      <height>40</height>
+     </size>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
